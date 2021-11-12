@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "Azure_SQL_pipeline",
 	"properties": {
 		"activities": [
 			{
